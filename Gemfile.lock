@@ -4,6 +4,7 @@ GEM
     ansi (1.5.0)
     builder (3.2.4)
     ffi (1.15.0)
+    gmammadova-palindrome (0.1.0)
     listen (3.5.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
@@ -43,6 +44,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  gmammadova-palindrome (= 0.1.0)
   minitest (= 5.14.2)
   minitest-reporters (= 1.4.2)
   nokogiri (= 1.10.10)
